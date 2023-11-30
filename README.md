@@ -42,5 +42,15 @@ Coming soon!
 ## Citation
 If you find this repository helpful, consider citing our system paper:
 ```
-[Citation pending]
+@InProceedings{sandovalcastaneda-EtAl:2023:WMT,
+  author    = {Sandoval-Castaneda, Marcelo  and  Li, Yanhong  and  Shi, Bowen  and  Brentari, Diane  and  Livescu, Karen  and  Shakhnarovich, Gregory},
+  title     = {TTIC's Submission to WMT-SLT 23},
+  booktitle      = {Proceedings of the Eighth Conference on Machine Translation},
+  month          = {December},
+  year           = {2023},
+  address        = {Singapore},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {344--350},
+  url       = {https://aclanthology.org/2023.wmt-1.35}
+}
 ```
